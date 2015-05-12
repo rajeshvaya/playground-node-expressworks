@@ -1,0 +1,24 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Express tutorials with expressworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshvaya/playground-node-expressworks.git"
+  },
+  "author": "Rajesh Vaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshvaya/playground-node-expressworks/issues"
+  },
+  "homepage": "https://github.com/rajeshvaya/playground-node-expressworks#readme",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "express": "^4.12.3",
+    "jade": "^1.9.2"
+  }
+}
